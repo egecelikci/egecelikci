@@ -1,7 +1,4 @@
 <pre>
-[egecelikci@github ~/gh/egecelikci master ]$ echo $'```\n// TODO\n```' > README.md
-</pre>
-<pre>
 [egecelikci@github ~/gh/egecelikci master ]$ ls ~/.local/share/mail
 <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#101;&#103;&#101;&#99;&#101;&#108;&#105;&#107;&#99;&#105;&#46;&#99;&#111;&#109;">hello@egecelikci.com</a>
 
