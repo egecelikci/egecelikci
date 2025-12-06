@@ -26,7 +26,7 @@ SHA256:ib7FCqCTFCAbsqZMh2f/HO0oAEVuhUN14AnkYSwbkz0
 
 ### signing
 
-this repo is pushed to [Codeberg](https://codeberg.org/egecelikci/egecelikci), [GitLab](https://gitlab.com/egecelikci/egecelikci) & [GitHub](https://github.com/egecelikci/egecelikci). all three repositories should be identical and show commits signed with one of the keys below
+this repo is pushed to [Codeberg](https://codeberg.org/egecelikci/egecelikci), [GitLab](https://gitlab.com/egecelikci/egecelikci), [GitHub](https://github.com/egecelikci/egecelikci) & [sourcehut](https://git.sr.ht/~egecelikci/egecelikci). all four repositories should be identical and show commits signed with one of the keys below
 
 #### public signing key of bilgisayar
 
