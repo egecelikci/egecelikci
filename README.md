@@ -3,9 +3,9 @@
 ## SSH
 
 - [ege.celikci.me/keys](https://ege.celikci.me/keys#ssh)
+- [git.celikci.me/egecelikci.keys](https://git.celikci.me/egecelikci.keys)
 - [codeberg.org/egecelikci.keys](https://codeberg.org/egecelikci.keys)
 - [github.com/egecelikci.keys](https://github.com/egecelikci.keys)
-- [gitlab.com/egecelikci.keys](https://gitlab.com/egecelikci.keys)
 - [meta.sr.ht/~egecelikci.keys](https://meta.sr.ht/~egecelikci.keys)
 
 ### authentication
@@ -26,7 +26,7 @@ SHA256:ib7FCqCTFCAbsqZMh2f/HO0oAEVuhUN14AnkYSwbkz0
 
 ### signing
 
-this repo is pushed to [Codeberg](https://codeberg.org/egecelikci/egecelikci), [GitLab](https://gitlab.com/egecelikci/egecelikci), [GitHub](https://github.com/egecelikci/egecelikci) & [sourcehut](https://git.sr.ht/~egecelikci/egecelikci). all four repositories should be identical and show commits signed with one of the keys below
+this repo is pushed to [forgejo](https://git.celikci.me/egecelikci/egecelikci), [Codeberg](https://codeberg.org/egecelikci/egecelikci), [GitHub](https://github.com/egecelikci/egecelikci) & [sourcehut](https://git.sr.ht/~egecelikci/egecelikci). all four repositories should be identical and show commits signed with one of the keys below
 
 #### public signing key of bilgisayar
 
